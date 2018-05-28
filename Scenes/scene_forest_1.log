@@ -1,0 +1,222 @@
+	Exporter version: 4.6.1, Blender version: 2.79 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used:
+		selected layers only:  false
+		flat shading entire scene:  false
+		inline textures:  false
+		texture directory:  C:\Users\Main\Desktop\Blender\Scenes\
+	Python World class constructor completed
+	processing begun of mesh:  Water
+		processing begun of baked material:  Water
+			Internal baking texture, type: TEXTURE, mapped using: UVMap
+		num positions      :  4569
+		num normals        :  4569
+		num uvs            :  9138
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  25326
+		WARNING: # of 0 area faces found:  1
+	processing begun of mesh:  BattleAxe
+		processing begun of Standard material:  Material
+		num positions      :  1028
+		num normals        :  1028
+		num uvs            :  2056
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1950
+	processing begun of mesh:  Plant_1
+		processing begun of Standard material:  Green.4
+		num positions      :  2676
+		num normals        :  2676
+		num uvs            :  5352
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  8448
+	processing begun of mesh:  Grass_2
+		processing begun of Standard material:  Green.3
+		num positions      :  517
+		num normals        :  517
+		num uvs            :  1034
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  672
+	processing begun of mesh:  Grass_1
+		processing begun of Standard material:  Green.2
+		num positions      :  186
+		num normals        :  186
+		num uvs            :  372
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  252
+	processing begun of mesh:  Log_3
+		processing begun of Standard material:  Brown.4
+		processing begun of Standard material:  Brown.7
+		processing begun of multimaterial:  scene_forest_1.Multimaterial#0
+		num positions      :  3372
+		num normals        :  3372
+		num uvs            :  6744
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  13728
+	processing begun of mesh:  Log_2
+		processing begun of Standard material:  Brown.003
+		processing begun of Standard material:  Brown.004
+		processing begun of multimaterial:  scene_forest_1.Multimaterial#1
+		num positions      :  5525
+		num normals        :  5525
+		num uvs            :  11050
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  22272
+	processing begun of mesh:  Log_1
+		processing begun of Standard material:  Brown.5
+		processing begun of Standard material:  Brown.6
+		processing begun of multimaterial:  scene_forest_1.Multimaterial#2
+		num positions      :  5685
+		num normals        :  5685
+		num uvs            :  11370
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  22272
+	processing begun of mesh:  Bush_2
+		processing begun of Standard material:  Brown.002
+		processing begun of Standard material:  Green.003
+		processing begun of multimaterial:  scene_forest_1.Multimaterial#3
+		num positions      :  4542
+		num normals        :  4542
+		num uvs            :  9084
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  17280
+	processing begun of mesh:  Bush_3
+		processing begun of Standard material:  Brown.001
+		processing begun of Standard material:  Green.002
+		processing begun of multimaterial:  scene_forest_1.Multimaterial#4
+		num positions      :  4627
+		num normals        :  4627
+		num uvs            :  9254
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  17376
+	processing begun of mesh:  Bush_1
+		processing begun of Standard material:  Brown.9
+		processing begun of Standard material:  Green.1
+		processing begun of multimaterial:  scene_forest_1.Multimaterial#5
+		num positions      :  3671
+		num normals        :  3671
+		num uvs            :  7342
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  13824
+	processing begun of mesh:  OakTree3
+		processing begun of Standard material:  OakTreeLeaf
+		processing begun of Standard material:  OakTreeTrunk
+		processing begun of multimaterial:  scene_forest_1.Multimaterial#6
+		num positions      :  5422
+		num normals        :  5422
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  32448
+	processing begun of mesh:  OakTree1
+		registered as also a user of material:  OakTreeTrunk
+		registered as also a user of material:  OakTreeLeaf
+		processing begun of multimaterial:  scene_forest_1.Multimaterial#7
+		num positions      :  4226
+		num normals        :  4226
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  25284
+	processing begun of mesh:  Mounting_1
+		processing begun of Standard material:  Orange.3
+		num positions      :  1875
+		num normals        :  1875
+		num uvs            :  3750
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4128
+	processing begun of camera (FreeCamera):  Camera
+	processing begun of mesh:  OakTree1.001
+		processing begun of Standard material:  OakTreeTrunk.002
+		processing begun of Standard material:  OakTreeLeaf.002
+		processing begun of multimaterial:  scene_forest_1.Multimaterial#8
+		num positions      :  4226
+		num normals        :  4226
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  25284
+	processing begun of mesh:  OakTree3.001
+		processing begun of Standard material:  OakTreeLeaf.003
+		processing begun of Standard material:  OakTreeTrunk.003
+		processing begun of multimaterial:  scene_forest_1.Multimaterial#9
+		num positions      :  5422
+		num normals        :  5422
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  32448
+	processing begun of mesh:  Bush_1.001
+		processing begun of Standard material:  Brown.000
+		processing begun of Standard material:  Green.000
+		processing begun of multimaterial:  scene_forest_1.Multimaterial#10
+		num positions      :  3671
+		num normals        :  3671
+		num uvs            :  7342
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  13824
+	processing begun of mesh:  Grass_1.001
+		processing begun of Standard material:  Green.004
+		num positions      :  186
+		num normals        :  186
+		num uvs            :  372
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  252
+	processing begun of mesh:  Grass_1.002
+		processing begun of Standard material:  Green.005
+		num positions      :  186
+		num normals        :  186
+		num uvs            :  372
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  252
+	processing begun of mesh:  Grass_2.001
+		processing begun of Standard material:  Green.006
+		num positions      :  517
+		num normals        :  517
+		num uvs            :  1034
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  672
+	processing begun of mesh:  Grass_2.002
+		processing begun of Standard material:  Green.007
+		num positions      :  517
+		num normals        :  517
+		num uvs            :  1034
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  672
+	processing begun of mesh:  Grass_1.003
+		processing begun of Standard material:  Green.008
+		num positions      :  186
+		num normals        :  186
+		num uvs            :  372
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  252
+	processing begun of mesh:  Grass_1.004
+		processing begun of Standard material:  Green.009
+		num positions      :  186
+		num normals        :  186
+		num uvs            :  372
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  252
+	processing begun of light (SUN):  Sun
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 3.5662 secs
